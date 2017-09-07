@@ -20,3 +20,14 @@ body {
     height: 200px;
 }
 
+body {
+    font-family: fantasy;
+    background-color: #543636;
+    margin-top: 123px;
+}
+
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
