@@ -30,4 +30,20 @@ user agent stylesheet
 body {
     display: block;
     margin: 8px;
+}body {
+    font-family: cursive;
+    background-color: rgba(199, 75, 40, 0.98);
+    margin-top: 73px;
+}
+
+style.css:1
+body {
+    font-family: sans-serif;
+    background-color: lightgrey;
+    margin-top: 75px;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
 }
