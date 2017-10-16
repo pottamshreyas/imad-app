@@ -13,7 +13,7 @@ body {
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: alegrin;
 }
 
 .img-medium {
@@ -22,14 +22,14 @@ body {
 
 body {
     font-family: fantasy;
-    background-color: #54387;
-    margin-top: 124px;
+    background-color: #5438745;
+    margin-top: 123px;
 }
 
 user agent stylesheet
 body {
     display: block;
-    margin: 8px;
+    margin: 80px;
 }body {
     font-family: cursive;
     background-color: rgba(199, 75, 40, 0.98);
