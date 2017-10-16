@@ -17,7 +17,7 @@ body {
 }
 
 .img-medium {
-    height: 209px;
+    height: 200px;
 }
 
 body {
@@ -29,7 +29,7 @@ body {
 user agent stylesheet
 body {
     display: block;
-    margin: 80px;
+    margin: 8px;
 }body {
     font-family: cursive;
     background-color: rgba(199, 75, 40, 0.98);
