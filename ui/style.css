@@ -9,7 +9,7 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 300;
 }
 
 .bold {
@@ -17,13 +17,13 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    height: 209px;
 }
 
 body {
     font-family: fantasy;
-    background-color: #543636;
-    margin-top: 123px;
+    background-color: #54387;
+    margin-top: 124px;
 }
 
 user agent stylesheet
